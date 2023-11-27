@@ -1,0 +1,123 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+/* .down{
+    margin: 20px;
+   
+} */
+.container-head{
+    background-color: red;
+    border: 2px solid black ;
+    height: auto;
+    /* display: grid; */
+   
+
+}
+.container-small{
+    /* background-color: blue; */
+    margin: 20px;
+    margin-top: 20px;
+    margin: 30px;
+    height: 850px;
+    /* display: grid;
+    grid-template:repeat(8, 1fr)/ repeat(8/1fr); */
+    
+
+}
+.flex-item1{
+    /* display: flex;
+    float: left;
+    display: block; */
+    float: left;
+  
+    
+}
+.flex-item2{
+    /* display: flex;
+    float: left;
+    display: block; */
+    float: left;
+    
+    /* padding-left: 20px; */
+}
+.color1{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+}
+.color2{
+    background-color: rgb(184, 98, 152);
+    height: 100px;
+    width: 100px;
+}
+.color3{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+}
+.color4{
+    background-color: rgb(184, 98, 152);
+    height: 100px;
+    width: 100px;
+}
+.color5{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+}
+.color6{
+    background-color: rgb(184, 98, 152);
+    height: 100px;
+    width: 100px;
+}
+.color7{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+}
+.color8{
+    background-color: rgb(184, 98, 152);
+    height: 100px;
+    width: 100px;
+}
+.color11{
+    background-color: rgb(184, 98, 152);
+    height: 100px;
+    width: 100px;
+}
+.color22{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+}
+.color33{
+    background-color: rgb(184, 98, 152);
+    height: 100px;
+    width: 100px;
+}
+.color44{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+}
+.color55{
+    background-color: rgb(184, 98, 152);
+    height: 100px;
+    width: 100px;
+}
+.color66{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+}
+.color77{
+    background-color: rgb(184, 98, 152);
+    height: 100px;
+    width: 100px;
+}
+.color88{
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 100px;
+}
